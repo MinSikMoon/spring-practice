@@ -1,3 +1,4 @@
+src/**/*.xml
 target/
 .metadata
 bin/
